@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Muchechetere Farm",
+  "description": "A mobile web app for agronomists to conduct farm and crop assessments, capture photos, and generate instant report summaries powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
